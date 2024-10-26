@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+
+canvas{
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 0 0 17px -4px #00000088;
+    border-radius: 5px;
+    background-color: bisque;
+}
